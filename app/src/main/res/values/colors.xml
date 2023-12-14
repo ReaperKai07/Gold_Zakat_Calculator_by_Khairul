@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_light_primaryDark">#800020</color>
+    <color name="my_light_primary">#8DA053</color>
+    <color name="my_background_color">#E9EDEO</color>
+    <color name="divider_background">#FDBF50</color>
+    <color name="rate_button">#5F90E0</color>
+    <color name="reset_button">#800020</color>
+    <!-- Red : #800020, Gold : #CCA43B, White : #FDFDFF -->
+    <!-- Green : #8DA053 LightGreen: #E9EDEO Gold : FDBF50 SoftBlack: #2A2C41 -->
+</resources>
